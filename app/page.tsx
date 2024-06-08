@@ -13,7 +13,7 @@ export default function Home() {
 
      </div>
      <div className={styles.center}>
-  <p>
+  
      <br/> ANSWER 1:
       <br/> 5 Most favourite support task:
       <p>
@@ -41,7 +41,7 @@ export default function Home() {
       <br/> 4. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
       <br/> 5.Manage a support team
       </p>
-  </p>
+  
     
      </div>
 
