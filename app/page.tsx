@@ -13,7 +13,7 @@ export default function Home() {
 
      </div>
      <div className={styles.center}>
-       <p>
+  <p>
      <br/> ANSWER 1:
       <br/> 5 Most favourite support task:
       <p>
@@ -23,7 +23,7 @@ export default function Home() {
       <br/> 4. Identify, file (and, where possible, resolve) bugs in private and public Vercel Next.js repos on GitHub
       <br/> 5.Work with people to figure out if Vercel is suitable for their use case
       </p>
-      <p>
+    
        <br/> 5 least favourite support task:
        <p>
        <br/> 1.Help resolve billing issues for customers
@@ -32,7 +32,7 @@ export default function Home() {
        <br/> 4. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
        <br/> 5.Manage a support team
        </p>
-       </p>
+    
       <br/> 5 least favourite support task:
       <p>
       <br/> 1.Help resolve billing issues for customers
@@ -41,7 +41,7 @@ export default function Home() {
       <br/> 4. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
       <br/> 5.Manage a support team
       </p>
-      </p>
+  </p>
     
      </div>
 
