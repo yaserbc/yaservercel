@@ -23,7 +23,16 @@ export default function Home() {
       <br/> 4. Identify, file (and, where possible, resolve) bugs in private and public Vercel Next.js repos on GitHub
       <br/> 5.Work with people to figure out if Vercel is suitable for their use case
       </p>
-  
+      <p>
+       <br/> 5 least favourite support task:
+       <p>
+       <br/> 1.Help resolve billing issues for customers
+       <br/> 2.Create video tutorials to help teach users a specific feature or use case
+       <br/> 3.Find and recruit teammates for the support team
+       <br/> 4. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
+       <br/> 5.Manage a support team
+       </p>
+       </p>
       <br/> 5 least favourite support task:
       <p>
       <br/> 1.Help resolve billing issues for customers
